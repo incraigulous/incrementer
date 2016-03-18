@@ -2,8 +2,10 @@
 
 A simple CraftCMS plugin that allows you to increment or decrement fields via ajax request.
 
- ## Increment via ajax request
- **POST:** /actions/incrementer/field/increment
+Increment via ajax request
+--------------------------
+
+**POST:** /actions/incrementer/field/increment
 
 **Example request:**
 `````
@@ -22,7 +24,9 @@ A simple CraftCMS plugin that allows you to increment or decrement fields via aj
  }
  `````
  
-  ## Decrement via ajax request
+Decrement via ajax request
+--------------------------
+
 **POST:** /actions/incrementer/field/decrement
 
 **Example request:**
